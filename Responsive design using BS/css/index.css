@@ -1,0 +1,40 @@
+.jumbotron{
+    height:150px;
+    margin-bottom: 0px;
+}
+.middlediv{
+    width:70%;
+    height:100%;
+    margin:0 auto;
+    background-color: rgba(250, 250, 210, 0.65);
+    padding:1%;
+}
+.modal-footer{
+    background-color: lightgrey;
+}
+.carousel-caption{
+    top:70%;
+    left:1.7%;
+    width: 96.6%;
+    height: 30%;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity:0.7;
+    resize: vertical;
+    overflow:auto;
+}
+.headname{
+    float:left;
+    margin-left: 20%;
+}
+.aboutcon{
+    float: right;
+    margin-right:20%;
+}
+.aboutcon label{
+    padding:30px;
+}
+img{
+    width:100%;
+    height:100%;
+}
